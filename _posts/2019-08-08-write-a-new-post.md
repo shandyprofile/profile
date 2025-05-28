@@ -392,7 +392,7 @@ key: value
 ```
 ````
 
-> The Jekyll tag `{% highlight %}` is not compatible with this theme.
+> The Jekyll tag `{% highlight ruby %}` is not compatible with this theme.
 {: .prompt-danger }
 
 #### Line Number
